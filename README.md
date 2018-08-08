@@ -1,2 +1,2 @@
-# MS-Toolbox
-Store app "MS Toolbox" Privacy Policy. There is no code!!
+#Change FileType Tool
+Store app "Change FileType Tool" Privacy Policy. There is no code
